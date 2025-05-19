@@ -8,3 +8,8 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=isettra&show_icons=true&locale=en" alt="isettra" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=isettra&show_icons=true&locale=en&layout=compact" alt="isettra" /></p>
+
+![Snake animation)(https://github.com/isettra/isettra/blob/output/github-contribution-grid-snake.svg). 
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=isettra&repo isettra&theme=react)](https://github.com/isettra/isettra)
